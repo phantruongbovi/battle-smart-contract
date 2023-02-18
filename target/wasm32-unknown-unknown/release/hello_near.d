@@ -1,0 +1,1 @@
+/Users/truong.phan/Documents/Study/smart-contract/first-smart-contract/contract/target/wasm32-unknown-unknown/release/hello_near.wasm: /Users/truong.phan/Documents/Study/smart-contract/first-smart-contract/contract/src/lib.rs
